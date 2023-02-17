@@ -1,0 +1,20 @@
+{
+    "Textures": [
+        {
+            "Texture Name": "Testing_Texture_00",
+            "Texture Filepath": "data/textures/misc/Testing_Texture_00.dds",
+
+            "Frames Filepath": "data/textures/misc/Testing_Texture_00.json"
+        },
+        {
+            "Texture Name": "Anim_Test_SS_00",
+            "Texture Filepath": "data/textures/sprites/Anim_Test_SS_00.dds",
+
+            "Frames Filepath": "data/textures/sprites/Anim_Test_SS_00.json"
+        },
+        {
+            "Texture Name": "Test_BG_00",
+            "Texture Filepath": "data/textures/backgrounds/RB_WP_00.dds"
+        }
+    ]
+}

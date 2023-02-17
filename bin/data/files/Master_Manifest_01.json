@@ -1,0 +1,68 @@
+{
+    "Textures": [
+        {
+            "Unique ID": 0,
+            "Manifest Name": "Default_Texture_Loads_00",
+            "Manifest Filepath": "data/files/Texture_Manifest_00.json"
+        }
+    ],
+    "UI": [
+        {
+            "Unique ID": 0,
+            "Manifest Name": "Default_UI_Config_00",
+            "Manifest Filepath": "data/files/Game_UI_Config_00.json"
+        }
+    ],
+    "Fonts": [
+        {
+            "Unique ID": 0,
+            "Manifest Name": "Default_Font_Loads_00",
+            "Manifest Filepath": "data/files/Font_Manifest_02.json"
+        }
+    ],
+    "Audio Wavebanks": [
+        {
+            "Unique ID": 0,
+            "Wavebank Name": "Testing_Wavebank_00",
+            "Wavebank Filepath": "data/audio/wavebanks/Menu_Test_sounds_00.xwb"
+        }
+    ],
+    "Audio Singletons": [
+        {
+
+        }
+    ],
+    "Tilemaps": [
+        {
+            "Unique ID": 0,
+            "Tileset Name": "PH_EXAMPLE",
+
+            "Associated JSON Filepath": "data/textures/tilemaps/PH_EXAMPLE.json",
+            "Associated Texture Filepath": "data/textures/tilemaps/PH_EXAMPLE.dds"
+        },
+
+    ],
+    "Level Layouts": [
+        {
+            "Unique ID": 0,
+            "Level Name": "PH_EXAMPLE",
+            "Associated JSON Filepath": "data/textures/tilemaps/PH_EXAMPLE.json",
+
+            "Tilesets Used": [
+                {
+                    "Tileset Name": "Tropics_00",
+                    "Associated JSON Filepath": "data/textures/tilemaps/PH_EXAMPLE.json"
+                }
+            ]
+        }
+    ],
+    "Unit Data": [
+        {
+            "Unique ID": 0,
+            "Unit Data Name": "PH_EXAMPLE",
+            "Unit Data JSON Filepath": "data/files/PH_EXAMPLE.json",
+            "Unit Matchup JSON Filepath": "data/files/PH_EXAMPLE.json"
+        }
+    ]
+
+}
